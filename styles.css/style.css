@@ -46,7 +46,7 @@ body{
 .photo{
     color: #eee;
     width: 98vw;
-    height: 85vh;
+    height: 60vh;
     display: flex;
     border-radius: 10px;
     align-items: flex-end;
@@ -99,9 +99,8 @@ body{
 }
 
 .actions{
-    flex: auto;
     display: flex;
-    margin: 1rem 0;
+    margin: 20px;
     align-items: center;
 }
 
